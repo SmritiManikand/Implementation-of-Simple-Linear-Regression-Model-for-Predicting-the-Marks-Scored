@@ -52,7 +52,7 @@ plt.plot(X_train,reg.predict(X_train),color='red')
 plt.title('Training set (H vs S)')
 plt.xlabel("Hours")
 plt.ylabel("Scores")
-plt.show
+plt.show()
 
 plt.scatter(X_test,Y_test,color='purple')
 plt.plot(X_test,reg.predict(X_test),color='blue')
@@ -73,19 +73,15 @@ print("RMSE = ",rmse)
 
 ## Output:
 
-![s1](https://user-images.githubusercontent.com/113674204/229026653-570ac064-5952-4996-9bf6-c4991c425076.png)
+![s1](https://user-images.githubusercontent.com/113674204/229070636-2cba6cbc-74a2-4e94-b764-409b48f77e3c.png)
 
-![s2](https://user-images.githubusercontent.com/113674204/229026712-39efab45-7b9c-4c40-9e77-bac989463fff.png)
+![s2](https://user-images.githubusercontent.com/113674204/229070663-b6654a9b-3397-4159-a69f-9874610b9ef6.png)
 
-![s3](https://user-images.githubusercontent.com/113674204/229026753-5e085da4-e14c-445d-b543-fc228c62d970.png)
+![s3](https://user-images.githubusercontent.com/113674204/229070707-bd59cd92-0cd4-4ce7-8fb9-1c71bca0fb88.png)
 
-![s4](https://user-images.githubusercontent.com/113674204/229026788-e3e2e72d-c619-41c3-9a30-52fb355e3c89.png)
+![s4](https://user-images.githubusercontent.com/113674204/229070746-5c7854cb-9a98-41d4-b700-8e714ca3ac5a.png)
 
-![s5](https://user-images.githubusercontent.com/113674204/229026816-fa2f4712-6abe-4d50-b337-b93b1f9c41ad.png)
-
-![s6](https://user-images.githubusercontent.com/113674204/229026925-b4f1382b-4ba4-4adf-b2e1-bc017b359d1c.png)
-
-![s7](https://user-images.githubusercontent.com/113674204/229026986-4bfe9345-96d9-4b0f-8825-1cf1c78e18ee.png)
+![s5](https://user-images.githubusercontent.com/113674204/229070778-70e53c59-41eb-400f-b963-40c1524388df.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
