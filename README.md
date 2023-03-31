@@ -17,12 +17,12 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by:Smriti M
+RegisterNumber:  212221040157
 */
 import pandas as pd
 import numpy as np
-dataset=pd.read_csv('/content/student_scores.csv')
+dataset=pd.read_csv('/student_scores.csv')
 print(dataset)
 
 
@@ -64,11 +64,10 @@ print('MAE = ',mae)
 
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
-*/
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
 
 
 ## Result:
