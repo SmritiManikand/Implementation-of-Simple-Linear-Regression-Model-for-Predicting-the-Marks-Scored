@@ -73,7 +73,19 @@ print("RMSE = ",rmse)
 
 ## Output:
 
+![s1](https://user-images.githubusercontent.com/113674204/229026653-570ac064-5952-4996-9bf6-c4991c425076.png)
 
+![s2](https://user-images.githubusercontent.com/113674204/229026712-39efab45-7b9c-4c40-9e77-bac989463fff.png)
+
+![s3](https://user-images.githubusercontent.com/113674204/229026753-5e085da4-e14c-445d-b543-fc228c62d970.png)
+
+![s4](https://user-images.githubusercontent.com/113674204/229026788-e3e2e72d-c619-41c3-9a30-52fb355e3c89.png)
+
+![s5](https://user-images.githubusercontent.com/113674204/229026816-fa2f4712-6abe-4d50-b337-b93b1f9c41ad.png)
+
+![s6](https://user-images.githubusercontent.com/113674204/229026925-b4f1382b-4ba4-4adf-b2e1-bc017b359d1c.png)
+
+![s7](https://user-images.githubusercontent.com/113674204/229026986-4bfe9345-96d9-4b0f-8825-1cf1c78e18ee.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
