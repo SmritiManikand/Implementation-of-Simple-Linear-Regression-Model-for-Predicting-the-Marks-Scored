@@ -85,7 +85,7 @@ print("RMSE = ",rmse)
 
 ![s4](https://user-images.githubusercontent.com/113674204/229070746-5c7854cb-9a98-41d4-b700-8e714ca3ac5a.png)
 
-## Values of MSE,MAE and RMSE
+## Values of MSE, MAE and RMSE
 
 ![s5](https://user-images.githubusercontent.com/113674204/229070778-70e53c59-41eb-400f-b963-40c1524388df.png)
 
