@@ -77,9 +77,15 @@ print("RMSE = ",rmse)
 
 ![s2](https://user-images.githubusercontent.com/113674204/229070663-b6654a9b-3397-4159-a69f-9874610b9ef6.png)
 
+## Training Set Graph
+
 ![s3](https://user-images.githubusercontent.com/113674204/229070707-bd59cd92-0cd4-4ce7-8fb9-1c71bca0fb88.png)
 
+## Test Set Graph
+
 ![s4](https://user-images.githubusercontent.com/113674204/229070746-5c7854cb-9a98-41d4-b700-8e714ca3ac5a.png)
+
+## Values of MSE,MAE and RMSE
 
 ![s5](https://user-images.githubusercontent.com/113674204/229070778-70e53c59-41eb-400f-b963-40c1524388df.png)
 
