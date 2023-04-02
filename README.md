@@ -74,19 +74,28 @@ print("RMSE = ",rmse)
 ## Output:
 
 ## df.head()
+
 ![s4](https://user-images.githubusercontent.com/113674204/229329319-a45805bd-f2f8-4bf3-b296-ddbe4998fe7e.png)
 
+## df.tail()
 
-##df.tail()
 ![s5](https://user-images.githubusercontent.com/113674204/229329322-d46dd646-9693-486b-9b88-81b28b8013f4.png)
-
 
 ## Array value of X
 
+![s1](https://user-images.githubusercontent.com/113674204/229329470-05a23176-edc1-46de-9d8f-042795b3ed6c.png)
 
 ## Array value of Y
+
+![s2](https://user-images.githubusercontent.com/113674204/229329483-840b3da3-b82f-4a1b-a7ee-90dd232fdc92.png)
+
 ## Values of Y prediction
+
+![s4](https://user-images.githubusercontent.com/113674204/229329690-de2fbdc6-7636-4e13-a5af-aecadb20d9bc.png)
+
 ## Array values of Y test
+
+![s3](https://user-images.githubusercontent.com/113674204/229329631-a31d7b98-cc88-4b30-8191-6b5f09c5f110.png)
 
 ## Training Set Graph
 
